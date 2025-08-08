@@ -20,9 +20,32 @@ Process
 
 
 •	Data Cleaning and saw for the anomalies and verified after cleaning
+
 •	Made new column that could help the analysis
+
 •	Created Pivot Charts followed by pivot table
+
 •	Created Interactive Dashboard by use of slicers
+
+
+Dashboard
+
+![Vrinda Dashboard](https://github.com/user-attachments/assets/8ac0230a-0a1c-403e-afd7-6e4b311ce840)
+
+
+Outcome
+
+Top 5 States for the business were Maharashtra,Karnataka,Uttar Pradesh,Telangana,Tamil Nadu,Delhi and Kerala
+
+Women were top buyers of the products
+
+The adult age group (30-49 yrs) is max contributing (~50%) and buys the most products.
+
+Successfully Delivered order rates was 90percent 
+
+March saw the highest orders among other months
+
+Amazon was the most preferred platform for placing the orders.
 
 
 
