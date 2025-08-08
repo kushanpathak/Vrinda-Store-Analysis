@@ -17,6 +17,8 @@ KPIs Answered
 9.	Percentage of Total Orders delivered
 
 Process
+
+
 •	Data Cleaning and saw for the anomalies and verified after cleaning
 •	Made new column that could help the analysis
 •	Created Pivot Charts followed by pivot table
